@@ -313,49 +313,49 @@
       "data": [
         {
           "id": "5",
-          "contents": { "id": "111", "src": "https://placedog.net/300/133/zz" },
-          "status": "APPROVAL_PENDING",
+          "contents": { "id": "111", "src": "https://placedog.net/300/133/a" },
+          "status": "RECORDING_PENDING",
           "assignee": { "id": "123" }
         },
         {
           "id": "6",
-          "contents": { "id": "113", "src": "https://placedog.net/300/133/zz" },
-          "status": "DECLINED",
+          "contents": { "id": "113", "src": "https://placedog.net/300/133/b" },
+          "status": "RECORDING_PENDING",
          "assignee": { "id": "123" }
         },
         {
           "id": "7",
-          "contents": { "id": "114", "src": "https://placedog.net/300/133/zz" },
-          "status": "APPROVED",
+          "contents": { "id": "114", "src": "https://placedog.net/300/133/c" },
+          "status": "RECORDING_PENDING",
           "assignee": { "id": "1234" }
         },
         {
           "id": "8",
-          "contents": { "id": "115", "src": "https://placedog.net/300/133/zz" },
+          "contents": { "id": "115", "src": "https://placedog.net/300/133/d" },
           "status": "APPROVAL_PENDING",
           "assignee": { "id": "123" }
         },
         {
           "id": "9",
-          "contents": { "id": "116", "src": "https://placedog.net/300/133/zz" },
+          "contents": { "id": "116", "src": "https://placedog.net/300/133/e" },
           "status": "DECLINED",
           "assignee": { "id": "123" }
         },
         {
           "id": "10",
-          "contents": { "id": "117", "src": "https://placedog.net/300/133/zz" },
+          "contents": { "id": "117", "src": "https://placedog.net/300/133/f" },
           "status": "APPROVED",
           "assignee": { "id": "1234" }
         },
         {
           "id": "11",
-          "contents": { "id": "118", "src": "https://placedog.net/300/133/zz" },
+          "contents": { "id": "118", "src": "https://placedog.net/300/133/g" },
           "status": "APPROVAL_PENDING",
           "assignee": { "id": "123" }
         },
         {
           "id": "12",
-          "contents": { "id": "119", "src": "https://placedog.net/300/133/zz" },
+          "contents": { "id": "119", "src": "https://placedog.net/300/133/h" },
           "status": "DECLINED",
           "assignee": { "id": "123" }
         }
