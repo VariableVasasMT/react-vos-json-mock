@@ -1,325 +1,367 @@
 {
-    "assets": {
-        "data": [
-            {
-                "id": 1,
-                "taskType": "task",
-                "name": "Kaise bhi chale",
-                "assetType": "uploadAndRecord",
-                "assignedBy": "ABC",
-                "dueDate": "21 August 2019",
-                "contextText": "<p></p><ul><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Etiam in lorem dapibus velit cursus eleifend vitae ac orci.</li><li>Nunc ac nisl in nisi porttitor interdum.</li><li>Morbi pharetra orci mattis,luctus augue quis,imperdiet lectus.</li><li>Nulla at lectus eu ipsum luctus placerat eu nec libero.</li></ul><p></p>",
-                "instructionText": "<p></p><ol><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Etiam in lorem dapibus velit cursus eleifend vitae ac orci.</li><li>Nunc ac nisl in nisi porttitor interdum.</li><li>Morbi pharetra orci mattis,luctus augue quis,imperdiet lectus.</li><li>Nulla at lectus eu ipsum luctus placerat eu nec libero.</li></ol><p></p>",
-                "attachments": [
-                    {
-                        "id": 1,
-                        "originalUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/NarutoUzumaki.png",
-                        "title": "naruto",
-                        "thumbPath": "https://upload.wikimedia.org/wikipedia/en/9/9a/NarutoUzumaki.png"
-                    },
-                    {
-                        "id": 2,
-                        "originalUrl": "https://i.kinja-img.com/gawker-media/image/upload/s--iVHBOWqJ--/c_scale,f_auto,fl_progressive,q_80,w_800/ubplmsahpvs2r1cnknhl.png",
-                        "title": "sasukesan",
-                        "thumbPath": "https://i.kinja-img.com/gawker-media/image/upload/s--iVHBOWqJ--/c_scale,f_auto,fl_progressive,q_80,w_800/ubplmsahpvs2r1cnknhl.png"
-                    },
-                    {
-                        "id": 3,
-                        "originalUrl": "https://vignette.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png",
-                        "title": "kakashi",
-                        "thumbPath": "https://vignette.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png"
-                    },
-                    {
-                        "id": 1,
-                        "originalUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/NarutoUzumaki.png",
-                        "title": "naruto",
-                        "thumbPath": "https://upload.wikimedia.org/wikipedia/en/9/9a/NarutoUzumaki.png"
-                    },
-                    {
-                        "id": 2,
-                        "originalUrl": "https://i.kinja-img.com/gawker-media/image/upload/s--iVHBOWqJ--/c_scale,f_auto,fl_progressive,q_80,w_800/ubplmsahpvs2r1cnknhl.png",
-                        "title": "sasukesan",
-                        "thumbPath": "https://i.kinja-img.com/gawker-media/image/upload/s--iVHBOWqJ--/c_scale,f_auto,fl_progressive,q_80,w_800/ubplmsahpvs2r1cnknhl.png"
-                    },
-                    {
-                        "id": 3,
-                        "originalUrl": "https://xiaoguo.net/~books/Program/You_Dont_Know_JS_Up_and_Going.pdf",
-                        "title": "pdf",
-                        "thumbPath": "https://vignette.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png"
-                    }
-                ]
-            }
-        ],
-        "total": 1
-    },
-    "task": [
-        {
+  "assets": {
+    "data": [
+      {
+        "id": 1,
+        "taskType": "task",
+        "name": "Kaise bhi chale",
+        "assetType": "uploadAndRecord",
+        "assignedBy": "ABC",
+        "dueDate": "21 August 2019",
+        "contextText": "<p></p><ul><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Etiam in lorem dapibus velit cursus eleifend vitae ac orci.</li><li>Nunc ac nisl in nisi porttitor interdum.</li><li>Morbi pharetra orci mattis,luctus augue quis,imperdiet lectus.</li><li>Nulla at lectus eu ipsum luctus placerat eu nec libero.</li></ul><p></p>",
+        "instructionText": "<p></p><ol><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Etiam in lorem dapibus velit cursus eleifend vitae ac orci.</li><li>Nunc ac nisl in nisi porttitor interdum.</li><li>Morbi pharetra orci mattis,luctus augue quis,imperdiet lectus.</li><li>Nulla at lectus eu ipsum luctus placerat eu nec libero.</li></ol><p></p>",
+        "attachments": [
+          {
             "id": 1,
-            "name": "Chocolate Factory",
-            "assignedBy": "Willy Wonka",
-            "dueDate": "21 August 2019",
-            "contextText": "<p></p><ul><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Etiam in lorem dapibus velit cursus eleifend vitae ac orci.</li><li>Nunc ac nisl in nisi porttitor interdum.</li><li>Morbi pharetra orci mattis,luctus augue quis,imperdiet lectus.</li><li>Nulla at lectus eu ipsum luctus placerat eu nec libero.</li></ul><p></p>",
-            "instructionText": "<p></p><ol><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Etiam in lorem dapibus velit cursus eleifend vitae ac orci.</li><li>Nunc ac nisl in nisi porttitor interdum.</li><li>Morbi pharetra orci mattis,luctus augue quis,imperdiet lectus.</li><li>Nulla at lectus eu ipsum luctus placerat eu nec libero.</li></ol><p></p>",
-            "attachments": [
-                {
-                    "id": 1,
-                    "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
-                    "title": "cake",
-                    "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
-                },
-                {
-                    "id": 2,
-                    "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
-                    "title": "cake",
-                    "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
-                },
-                {
-                    "id": 3,
-                    "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
-                    "title": "cake",
-                    "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
-                },
-                {
-                    "id": 4,
-                    "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
-                    "title": "cake",
-                    "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
-                }
-            ],
-            "status": "RECORDING PENDING",
-            "declinedOn": 1568373883961,
-            "reason": "hgjk",
-            "mode": "UPLOAD_AND_RECORD",
-            "subTasks": {
-                "data": [
-                    {
-                        "id": 1
-                    },
-                    {
-                        "id": 2
-                    },
-                    {
-                        "id": 3
-                    }
-                ],
-                "total": 3
-            }
-        },
-        {
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/NarutoUzumaki.png",
+            "title": "naruto",
+            "thumbPath": "https://upload.wikimedia.org/wikipedia/en/9/9a/NarutoUzumaki.png"
+          },
+          {
             "id": 2,
-            "taskType": "task",
-            "name": "Ut ac porttitor.",
-            "assetType": "uploadAndRecord",
-            "assignedBy": "Willy Wonka",
-            "dueDate": "21 August 2019",
-            "contextText": "<p></p><ul><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Etiam in lorem dapibus velit cursus eleifend vitae ac orci.</li><li>Nunc ac nisl in nisi porttitor interdum.</li><li>Morbi pharetra orci mattis,luctus augue quis,imperdiet lectus.</li><li>Nulla at lectus eu ipsum luctus placerat eu nec libero.</li></ul><p></p>",
-            "instructionText": "<p></p><ol><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Etiam in lorem dapibus velit cursus eleifend vitae ac orci.</li><li>Nunc ac nisl in nisi porttitor interdum.</li><li>Morbi pharetra orci mattis,luctus augue quis,imperdiet lectus.</li><li>Nulla at lectus eu ipsum luctus placerat eu nec libero.</li></ol><p></p>",
-            "attachments": [
-                {
-                    "id": 1,
-                    "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
-                    "title": "cake",
-                    "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
-                },
-                {
-                    "id": 2,
-                    "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
-                    "title": "cake",
-                    "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
-                },
-                {
-                    "id": 3,
-                    "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
-                    "title": "cake",
-                    "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
-                },
-                {
-                    "id": 4,
-                    "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
-                    "title": "cake",
-                    "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
-                }
-            ],
-            "status": "DECLINED",
-            "declinedOn": 1568370814480,
-            "reason": "sdaf"
-        },
-        {
+            "originalUrl": "https://i.kinja-img.com/gawker-media/image/upload/s--iVHBOWqJ--/c_scale,f_auto,fl_progressive,q_80,w_800/ubplmsahpvs2r1cnknhl.png",
+            "title": "sasukesan",
+            "thumbPath": "https://i.kinja-img.com/gawker-media/image/upload/s--iVHBOWqJ--/c_scale,f_auto,fl_progressive,q_80,w_800/ubplmsahpvs2r1cnknhl.png"
+          },
+          {
             "id": 3,
-            "taskType": "task",
-            "name": "In convallis lobortis.",
-            "assetType": "uploadAndRecord",
-            "assignedBy": "Willy Wonka",
-            "dueDate": "21 August 2019",
-            "contextText": "<p></p><ul><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Etiam in lorem dapibus velit cursus eleifend vitae ac orci.</li><li>Nunc ac nisl in nisi porttitor interdum.</li><li>Morbi pharetra orci mattis,luctus augue quis,imperdiet lectus.</li><li>Nulla at lectus eu ipsum luctus placerat eu nec libero.</li></ul><p></p>",
-            "instructionText": "<p></p><ol><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Etiam in lorem dapibus velit cursus eleifend vitae ac orci.</li><li>Nunc ac nisl in nisi porttitor interdum.</li><li>Morbi pharetra orci mattis,luctus augue quis,imperdiet lectus.</li><li>Nulla at lectus eu ipsum luctus placerat eu nec libero.</li></ol><p></p>",
-            "attachments": [
-                {
-                    "id": 1,
-                    "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
-                    "title": "cake",
-                    "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
-                },
-                {
-                    "id": 2,
-                    "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
-                    "title": "cake",
-                    "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
-                },
-                {
-                    "id": 3,
-                    "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
-                    "title": "cake",
-                    "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
-                },
-                {
-                    "id": 4,
-                    "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
-                    "title": "cake",
-                    "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
-                }
-            ],
-            "status": "RECORDING PENDING",
-            "declinedOn": 1568369826108,
-            "reason": "LOL"
-        },
-        {
-            "id": 4,
-            "taskType": "task",
-            "name": "Nam metus mi, malesuada eget ligula ut, venenatis suscipit metus.",
-            "assetType": "recordOnly",
-            "assignedBy": "Kakul Chandra",
-            "dueDate": "21 August 2019",
-            "contextText": "<p></p><ul><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Sed finibus nisi quis augue vehicula,quis semper nulla dignissim.</li><li>Suspendisse dictum eros et condimentum maximus.</li></ul><p></p><p></p><ul><li>Curabitur cursus libero quis lacus cursus,vel tincidunt ipsum volutpat.</li><li>Integer tristique lorem dictum sagittis dapibus.</li><li>Etiam sed velit rutrum,lacinia ex ac,convallis quam.</li><li>Maecenas fermentum lectus nec egestas pharetra.</li><li>Aenean quis est venenatis magna gravida euismod at nec diam.</li><li>Vivamus non ligula convallis,aliquam ante vel,maximus est.</li></ul><p></p><p></p><ul><li>Morbi a nisi vitae erat convallis scelerisque.</li><li>Cras eu augue eu orci venenatis tincidunt at quis sem.</li><li>Vivamus ultrices augue ut turpis egestas,id placerat est viverra.</li><li>Duis in tellus eu ex aliquam blandit.</li></ul><p></p><p></p><ul><li>Etiam id lectus ac lectus tristique scelerisque.</li><li>Quisque nec lectus imperdiet,rutrum metus sit amet,interdum velit.</li><li>Morbi nec quam dignissim nulla congue commodo vitae ac augue.</li></ul><p></p><p></p><ul><li>Mauris in lorem bibendum,efficitur odio ut,fringilla massa.</li><li>Integer vitae lorem a turpis blandit sagittis vel id sapien.</li><li>Cras vel nibh in nisi tincidunt efficitur eu ac ipsum.</li><li>Etiam vehicula orci at risus tempor suscipit.</li></ul><p></p><p></p><ul><li>Ut cursus diam vel libero fermentum convallis.</li><li>Integer pulvinar eros quis dui hendrerit hendrerit.</li><li>Phasellus quis dui eget arcu eleifend vulputate.</li><li>Morbi mattis sapien ac libero pharetra,at rutrum libero bibendum.</li><li>Proin efficitur nisi et leo ultrices lacinia.</li></ul><p></p><p></p><ul><li>Pellentesque quis lectus dapibus nibh tincidunt tincidunt vitae in erat.</li><li>Fusce non nisi at odio convallis feugiat.</li><li>Cras placerat diam sit amet scelerisque efficitur.</li><li>Nam consectetur nibh et lobortis dignissim.</li></ul><p></p><p></p><ul><li>Nullam rutrum mi eu efficitur cursus.</li><li>Quisque quis urna aliquet,mollis tellus vel,laoreet augue.</li><li>Phasellus dignissim nulla ac ipsum rhoncus molestie.</li><li>Mauris imperdiet tellus sed libero pharetra dignissim.</li><li>Ut hendrerit neque non dui sollicitudin pulvinar.</li><li>Sed euismod urna volutpat libero vehicula fermentum.</li></ul><p></p><p></p><ul><li>Pellentesque elementum erat facilisis malesuada maximus.</li><li>Cras sed magna euismod,lacinia ante quis,mattis mauris.</li></ul><p></p><p></p><ul><li>Maecenas varius eros faucibus justo imperdiet,at auctor nibh fermentum.</li><li>Phasellus ac erat sollicitudin,mollis mi sit amet,finibus enim.</li><li>Etiam luctus tortor vitae ex bibendum cursus.</li><li>Integer vitae ipsum viverra,mattis enim non,tincidunt eros.</li><li>Donec ullamcorper leo eu orci cursus,ac facilisis lorem congue.</li><li>Aenean suscipit mi non nibh tempor,in tempus dolor vulputate.</li></ul><p></p>",
-            "instructionText": "<p></p><ul><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Sed finibus nisi quis augue vehicula,quis semper nulla dignissim.</li><li>Suspendisse dictum eros et condimentum maximus.</li></ul><p></p><p></p><ul><li>Curabitur cursus libero quis lacus cursus,vel tincidunt ipsum volutpat.</li><li>Integer tristique lorem dictum sagittis dapibus.</li><li>Etiam sed velit rutrum,lacinia ex ac,convallis quam.</li><li>Maecenas fermentum lectus nec egestas pharetra.</li><li>Aenean quis est venenatis magna gravida euismod at nec diam.</li><li>Vivamus non ligula convallis,aliquam ante vel,maximus est.</li></ul><p></p><p></p><ul><li>Morbi a nisi vitae erat convallis scelerisque.</li><li>Cras eu augue eu orci venenatis tincidunt at quis sem.</li><li>Vivamus ultrices augue ut turpis egestas,id placerat est viverra.</li><li>Duis in tellus eu ex aliquam blandit.</li></ul><p></p><p></p><ul><li>Etiam id lectus ac lectus tristique scelerisque.</li><li>Quisque nec lectus imperdiet,rutrum metus sit amet,interdum velit.</li><li>Morbi nec quam dignissim nulla congue commodo vitae ac augue.</li></ul><p></p><p></p><ul><li>Mauris in lorem bibendum,efficitur odio ut,fringilla massa.</li><li>Integer vitae lorem a turpis blandit sagittis vel id sapien.</li><li>Cras vel nibh in nisi tincidunt efficitur eu ac ipsum.</li><li>Etiam vehicula orci at risus tempor suscipit.</li></ul><p></p><p></p><ul><li>Ut cursus diam vel libero fermentum convallis.</li><li>Integer pulvinar eros quis dui hendrerit hendrerit.</li><li>Phasellus quis dui eget arcu eleifend vulputate.</li><li>Morbi mattis sapien ac libero pharetra,at rutrum libero bibendum.</li><li>Proin efficitur nisi et leo ultrices lacinia.</li></ul><p></p><p></p><ul><li>Pellentesque quis lectus dapibus nibh tincidunt tincidunt vitae in erat.</li><li>Fusce non nisi at odio convallis feugiat.</li><li>Cras placerat diam sit amet scelerisque efficitur.</li><li>Nam consectetur nibh et lobortis dignissim.</li></ul><p></p><p></p><ul><li>Nullam rutrum mi eu efficitur cursus.</li><li>Quisque quis urna aliquet,mollis tellus vel,laoreet augue.</li><li>Phasellus dignissim nulla ac ipsum rhoncus molestie.</li><li>Mauris imperdiet tellus sed libero pharetra dignissim.</li><li>Ut hendrerit neque non dui sollicitudin pulvinar.</li><li>Sed euismod urna volutpat libero vehicula fermentum.</li></ul><p></p><p></p><ul><li>Pellentesque elementum erat facilisis malesuada maximus.</li><li>Cras sed magna euismod,lacinia ante quis,mattis mauris.</li></ul><p></p><p></p><ul><li>Maecenas varius eros faucibus justo imperdiet,at auctor nibh fermentum.</li><li>Phasellus ac erat sollicitudin,mollis mi sit amet,finibus enim.</li><li>Etiam luctus tortor vitae ex bibendum cursus.</li><li>Integer vitae ipsum viverra,mattis enim non,tincidunt eros.</li><li>Donec ullamcorper leo eu orci cursus,ac facilisis lorem congue.</li><li>Aenean suscipit mi non nibh tempor,in tempus dolor vulputate.</li></ul><p></p>",
-            "attachments": [
-                {
-                    "id": 1,
-                    "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
-                    "title": "cake",
-                    "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
-                },
-                {
-                    "id": 2,
-                    "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
-                    "title": "cake",
-                    "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
-                },
-                {
-                    "id": 3,
-                    "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
-                    "title": "cake",
-                    "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
-                },
-                {
-                    "id": 4,
-                    "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
-                    "title": "cake",
-                    "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
-                }
-            ],
-            "mode": "RECORD_ONLY",
-            "subTasks": {
-                "data": [
-                    {
-                        "id": "1",
-                        "thumbnailSrc": "https://picsum.photos/224/128",
-                        "status": "APPROVAL_PENDING",
-                        "assignee": {
-                            "id": "123"
-                        }
-                    },
-                    {
-                        "id": "2",
-                        "thumbnailSrc": "https://picsum.photos/224/128",
-                        "status": "DECLINED",
-                        "assignee": {
-                            "id": "123"
-                        }
-                    },
-                    {
-                        "id": "3",
-                        "thumbnailSrc": "https://picsum.photos/224/128",
-                        "status": "APPROVAL_PENDING",
-                        "assignee": {
-                            "id": "123"
-                        }
-                    },
-                    {
-                        "id": "4",
-                        "thumbnailSrc": "https://picsum.photos/224/128",
-                        "status": "DECLINED",
-                        "assignee": {
-                            "id": "123"
-                        }
-                    },
-                    {
-                        "id": "5",
-                        "thumbnailSrc": "https://picsum.photos/224/128",
-                        "status": "APPROVED",
-                        "assignee": {
-                            "id": "123"
-                        }
-                    },
-                    {
-                        "id": "6",
-                        "thumbnailSrc": "https://picsum.photos/224/128",
-                        "status": "SUBMITTED",
-                        "assignee": {
-                            "id": "123"
-                        }
-                    },
-                    {
-                        "id": "7",
-                        "thumbnailSrc": "https://picsum.photos/224/128",
-                        "status": "APPROVAL_PENDING",
-                        "assignee": {
-                            "id": "123"
-                        }
-                    },
-                    {
-                        "id": "8",
-                        "thumbnailSrc": "https://picsum.photos/224/128",
-                        "status": "DECLINED",
-                        "assignee": {
-                            "id": "123"
-                        }
-                    }
-                ],
-                "total": 8
-            },
-            "status": "RECORDING PENDING",
-            "declinedOn": 1568363986952,
-            "reason": "ghjkl"
-        },
-        {
-            "id": 5
-        }
+            "originalUrl": "https://vignette.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png",
+            "title": "kakashi",
+            "thumbPath": "https://vignette.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png"
+          },
+          {
+            "id": 1,
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/NarutoUzumaki.png",
+            "title": "naruto",
+            "thumbPath": "https://upload.wikimedia.org/wikipedia/en/9/9a/NarutoUzumaki.png"
+          },
+          {
+            "id": 2,
+            "originalUrl": "https://i.kinja-img.com/gawker-media/image/upload/s--iVHBOWqJ--/c_scale,f_auto,fl_progressive,q_80,w_800/ubplmsahpvs2r1cnknhl.png",
+            "title": "sasukesan",
+            "thumbPath": "https://i.kinja-img.com/gawker-media/image/upload/s--iVHBOWqJ--/c_scale,f_auto,fl_progressive,q_80,w_800/ubplmsahpvs2r1cnknhl.png"
+          },
+          {
+            "id": 3,
+            "originalUrl": "https://xiaoguo.net/~books/Program/You_Dont_Know_JS_Up_and_Going.pdf",
+            "title": "pdf",
+            "thumbPath": "https://vignette.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png"
+          }
+        ]
+      }
     ],
-    "subtasks": [
+    "total": 1
+  },
+  "task": [
+    {
+      "id": 1,
+      "name": "Chocolate Factory",
+      "assignedBy": "Willy Wonka",
+      "dueDate": "21 August 2019",
+      "contextText": "<p></p><ul><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Etiam in lorem dapibus velit cursus eleifend vitae ac orci.</li><li>Nunc ac nisl in nisi porttitor interdum.</li><li>Morbi pharetra orci mattis,luctus augue quis,imperdiet lectus.</li><li>Nulla at lectus eu ipsum luctus placerat eu nec libero.</li></ul><p></p>",
+      "instructionText": "<p></p><ol><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Etiam in lorem dapibus velit cursus eleifend vitae ac orci.</li><li>Nunc ac nisl in nisi porttitor interdum.</li><li>Morbi pharetra orci mattis,luctus augue quis,imperdiet lectus.</li><li>Nulla at lectus eu ipsum luctus placerat eu nec libero.</li></ol><p></p>",
+      "attachments": [
         {
-            "id": "1",
-            "thumbnailSrc": "https://placedog.net/300/133/zz",
-            "status": "APPROVAL_PENDING",
-            "assignee": {
-                "id": "123"
-            }
+          "id": 1,
+          "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
+          "title": "cake",
+          "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
         },
         {
-            "id": "2",
-            "thumbnailSrc": "https://placedog.net/300/133/zz",
-            "status": "DECLINED",
-            "assignee": {
-                "id": "123"
-            }
+          "id": 2,
+          "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
+          "title": "cake",
+          "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
         },
         {
-            "id": "3",
-            "thumbnailSrc": "https://placedog.net/300/133/zz",
-            "status": "APPROVED",
-            "assignee": {
-                "id": "1234"
-            }
+          "id": 3,
+          "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
+          "title": "cake",
+          "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
+        },
+        {
+          "id": 4,
+          "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
+          "title": "cake",
+          "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
         }
-    ]
+      ],
+      "status": "RECORDING PENDING",
+      "declinedOn": 1568373883961,
+      "reason": "hgjk",
+      "mode": "UPLOAD_AND_RECORD",
+      "subtasks": {
+        "data": [ { "id": 1 }, { "id": 2 }, { "id": 3 }],
+        "total": 3
+      }
+    },
+    {
+      "id": 2,
+      "taskType": "task",
+      "name": "Ut ac porttitor.",
+      "assetType": "uploadAndRecord",
+      "assignedBy": "Willy Wonka",
+      "dueDate": "21 August 2019",
+      "contextText": "<p></p><ul><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Etiam in lorem dapibus velit cursus eleifend vitae ac orci.</li><li>Nunc ac nisl in nisi porttitor interdum.</li><li>Morbi pharetra orci mattis,luctus augue quis,imperdiet lectus.</li><li>Nulla at lectus eu ipsum luctus placerat eu nec libero.</li></ul><p></p>",
+      "instructionText": "<p></p><ol><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Etiam in lorem dapibus velit cursus eleifend vitae ac orci.</li><li>Nunc ac nisl in nisi porttitor interdum.</li><li>Morbi pharetra orci mattis,luctus augue quis,imperdiet lectus.</li><li>Nulla at lectus eu ipsum luctus placerat eu nec libero.</li></ol><p></p>",
+      "attachments": [
+        {
+          "id": 1,
+          "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
+          "title": "cake",
+          "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
+        },
+        {
+          "id": 2,
+          "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
+          "title": "cake",
+          "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
+        },
+        {
+          "id": 3,
+          "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
+          "title": "cake",
+          "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
+        },
+        {
+          "id": 4,
+          "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
+          "title": "cake",
+          "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
+        }
+      ],
+      "status": "DECLINED",
+      "declinedOn": 1568370814480,
+      "reason": "sdaf"
+    },
+    {
+      "id": 3,
+      "taskType": "task",
+      "name": "In convallis lobortis.",
+      "assetType": "uploadAndRecord",
+      "assignedBy": "Willy Wonka",
+      "dueDate": "21 August 2019",
+      "contextText": "<p></p><ul><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Etiam in lorem dapibus velit cursus eleifend vitae ac orci.</li><li>Nunc ac nisl in nisi porttitor interdum.</li><li>Morbi pharetra orci mattis,luctus augue quis,imperdiet lectus.</li><li>Nulla at lectus eu ipsum luctus placerat eu nec libero.</li></ul><p></p>",
+      "instructionText": "<p></p><ol><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Etiam in lorem dapibus velit cursus eleifend vitae ac orci.</li><li>Nunc ac nisl in nisi porttitor interdum.</li><li>Morbi pharetra orci mattis,luctus augue quis,imperdiet lectus.</li><li>Nulla at lectus eu ipsum luctus placerat eu nec libero.</li></ol><p></p>",
+      "attachments": [
+        {
+          "id": 1,
+          "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
+          "title": "cake",
+          "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
+        },
+        {
+          "id": 2,
+          "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
+          "title": "cake",
+          "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
+        },
+        {
+          "id": 3,
+          "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
+          "title": "cake",
+          "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
+        },
+        {
+          "id": 4,
+          "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
+          "title": "cake",
+          "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
+        }
+      ],
+      "status": "RECORDING PENDING",
+      "declinedOn": 1568369826108,
+      "reason": "LOL"
+    },
+    {
+      "id": 5,
+      "taskType": "task",
+      "name": "Nam metus mi, malesuada eget ligula ut, venenatis suscipit metus.",
+      "assetType": "recordOnly",
+      "assignedBy": "Kakul Chandra",
+      "dueDate": "21 August 2019",
+      "contextText": "<p></p><ul><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Sed finibus nisi quis augue vehicula,quis semper nulla dignissim.</li><li>Suspendisse dictum eros et condimentum maximus.</li></ul><p></p><p></p><ul><li>Curabitur cursus libero quis lacus cursus,vel tincidunt ipsum volutpat.</li><li>Integer tristique lorem dictum sagittis dapibus.</li><li>Etiam sed velit rutrum,lacinia ex ac,convallis quam.</li><li>Maecenas fermentum lectus nec egestas pharetra.</li><li>Aenean quis est venenatis magna gravida euismod at nec diam.</li><li>Vivamus non ligula convallis,aliquam ante vel,maximus est.</li></ul><p></p><p></p><ul><li>Morbi a nisi vitae erat convallis scelerisque.</li><li>Cras eu augue eu orci venenatis tincidunt at quis sem.</li><li>Vivamus ultrices augue ut turpis egestas,id placerat est viverra.</li><li>Duis in tellus eu ex aliquam blandit.</li></ul><p></p><p></p><ul><li>Etiam id lectus ac lectus tristique scelerisque.</li><li>Quisque nec lectus imperdiet,rutrum metus sit amet,interdum velit.</li><li>Morbi nec quam dignissim nulla congue commodo vitae ac augue.</li></ul><p></p><p></p><ul><li>Mauris in lorem bibendum,efficitur odio ut,fringilla massa.</li><li>Integer vitae lorem a turpis blandit sagittis vel id sapien.</li><li>Cras vel nibh in nisi tincidunt efficitur eu ac ipsum.</li><li>Etiam vehicula orci at risus tempor suscipit.</li></ul><p></p><p></p><ul><li>Ut cursus diam vel libero fermentum convallis.</li><li>Integer pulvinar eros quis dui hendrerit hendrerit.</li><li>Phasellus quis dui eget arcu eleifend vulputate.</li><li>Morbi mattis sapien ac libero pharetra,at rutrum libero bibendum.</li><li>Proin efficitur nisi et leo ultrices lacinia.</li></ul><p></p><p></p><ul><li>Pellentesque quis lectus dapibus nibh tincidunt tincidunt vitae in erat.</li><li>Fusce non nisi at odio convallis feugiat.</li><li>Cras placerat diam sit amet scelerisque efficitur.</li><li>Nam consectetur nibh et lobortis dignissim.</li></ul><p></p><p></p><ul><li>Nullam rutrum mi eu efficitur cursus.</li><li>Quisque quis urna aliquet,mollis tellus vel,laoreet augue.</li><li>Phasellus dignissim nulla ac ipsum rhoncus molestie.</li><li>Mauris imperdiet tellus sed libero pharetra dignissim.</li><li>Ut hendrerit neque non dui sollicitudin pulvinar.</li><li>Sed euismod urna volutpat libero vehicula fermentum.</li></ul><p></p><p></p><ul><li>Pellentesque elementum erat facilisis malesuada maximus.</li><li>Cras sed magna euismod,lacinia ante quis,mattis mauris.</li></ul><p></p><p></p><ul><li>Maecenas varius eros faucibus justo imperdiet,at auctor nibh fermentum.</li><li>Phasellus ac erat sollicitudin,mollis mi sit amet,finibus enim.</li><li>Etiam luctus tortor vitae ex bibendum cursus.</li><li>Integer vitae ipsum viverra,mattis enim non,tincidunt eros.</li><li>Donec ullamcorper leo eu orci cursus,ac facilisis lorem congue.</li><li>Aenean suscipit mi non nibh tempor,in tempus dolor vulputate.</li></ul><p></p>",
+      "instructionText": "<p></p><ul><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Sed finibus nisi quis augue vehicula,quis semper nulla dignissim.</li><li>Suspendisse dictum eros et condimentum maximus.</li></ul><p></p><p></p><ul><li>Curabitur cursus libero quis lacus cursus,vel tincidunt ipsum volutpat.</li><li>Integer tristique lorem dictum sagittis dapibus.</li><li>Etiam sed velit rutrum,lacinia ex ac,convallis quam.</li><li>Maecenas fermentum lectus nec egestas pharetra.</li><li>Aenean quis est venenatis magna gravida euismod at nec diam.</li><li>Vivamus non ligula convallis,aliquam ante vel,maximus est.</li></ul><p></p><p></p><ul><li>Morbi a nisi vitae erat convallis scelerisque.</li><li>Cras eu augue eu orci venenatis tincidunt at quis sem.</li><li>Vivamus ultrices augue ut turpis egestas,id placerat est viverra.</li><li>Duis in tellus eu ex aliquam blandit.</li></ul><p></p><p></p><ul><li>Etiam id lectus ac lectus tristique scelerisque.</li><li>Quisque nec lectus imperdiet,rutrum metus sit amet,interdum velit.</li><li>Morbi nec quam dignissim nulla congue commodo vitae ac augue.</li></ul><p></p><p></p><ul><li>Mauris in lorem bibendum,efficitur odio ut,fringilla massa.</li><li>Integer vitae lorem a turpis blandit sagittis vel id sapien.</li><li>Cras vel nibh in nisi tincidunt efficitur eu ac ipsum.</li><li>Etiam vehicula orci at risus tempor suscipit.</li></ul><p></p><p></p><ul><li>Ut cursus diam vel libero fermentum convallis.</li><li>Integer pulvinar eros quis dui hendrerit hendrerit.</li><li>Phasellus quis dui eget arcu eleifend vulputate.</li><li>Morbi mattis sapien ac libero pharetra,at rutrum libero bibendum.</li><li>Proin efficitur nisi et leo ultrices lacinia.</li></ul><p></p><p></p><ul><li>Pellentesque quis lectus dapibus nibh tincidunt tincidunt vitae in erat.</li><li>Fusce non nisi at odio convallis feugiat.</li><li>Cras placerat diam sit amet scelerisque efficitur.</li><li>Nam consectetur nibh et lobortis dignissim.</li></ul><p></p><p></p><ul><li>Nullam rutrum mi eu efficitur cursus.</li><li>Quisque quis urna aliquet,mollis tellus vel,laoreet augue.</li><li>Phasellus dignissim nulla ac ipsum rhoncus molestie.</li><li>Mauris imperdiet tellus sed libero pharetra dignissim.</li><li>Ut hendrerit neque non dui sollicitudin pulvinar.</li><li>Sed euismod urna volutpat libero vehicula fermentum.</li></ul><p></p><p></p><ul><li>Pellentesque elementum erat facilisis malesuada maximus.</li><li>Cras sed magna euismod,lacinia ante quis,mattis mauris.</li></ul><p></p><p></p><ul><li>Maecenas varius eros faucibus justo imperdiet,at auctor nibh fermentum.</li><li>Phasellus ac erat sollicitudin,mollis mi sit amet,finibus enim.</li><li>Etiam luctus tortor vitae ex bibendum cursus.</li><li>Integer vitae ipsum viverra,mattis enim non,tincidunt eros.</li><li>Donec ullamcorper leo eu orci cursus,ac facilisis lorem congue.</li><li>Aenean suscipit mi non nibh tempor,in tempus dolor vulputate.</li></ul><p></p>",
+      "attachments": [
+        {
+          "id": 1,
+          "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
+          "title": "cake",
+          "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
+        },
+        {
+          "id": 2,
+          "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
+          "title": "cake",
+          "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
+        },
+        {
+          "id": 3,
+          "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
+          "title": "cake",
+          "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
+        },
+        {
+          "id": 4,
+          "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
+          "title": "cake",
+          "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
+        }
+      ],
+      "mode": "RECORD_ONLY",
+      "subTasks": {
+        "data":[
+          {
+            "id": "1",
+           "thumbnailSrc": "https://picsum.photos/224/128",
+            "status": "APPROVAL_PENDING",
+            "assignee": { "id": "123" }
+          },
+          {
+            "id": "2",
+            "thumbnailSrc": "https://picsum.photos/224/128",
+            "status": "DECLINED",
+            "assignee": { "id": "123" }
+          },
+          {
+            "id": "3",
+            "thumbnailSrc": "https://picsum.photos/224/128",
+            "status": "APPROVAL_PENDING",
+            "assignee": { "id": "123" }
+          },
+          {
+            "id": "4",
+            "thumbnailSrc": "https://picsum.photos/224/128",
+            "status": "DECLINED",
+            "assignee": { "id": "123" }
+          },
+          {
+            "id": "5",
+           "thumbnailSrc": "https://picsum.photos/224/128",
+            "status": "APPROVED",
+            "assignee": { "id": "123" }
+          },
+          {
+            "id": "6",
+            "thumbnailSrc": "https://picsum.photos/224/128",
+            "status": "SUBMITTED",
+            "assignee": { "id": "123" }
+          },
+          {
+            "id": "7",
+            "thumbnailSrc": "https://picsum.photos/224/128",
+            "status": "APPROVAL_PENDING",
+            "assignee": { "id": "123" }
+          },
+          {
+            "id": "8",
+            "thumbnailSrc": "https://picsum.photos/224/128",
+            "status": "DECLINED",
+            "assignee": { "id": "123" }
+          }
+        ],
+        "total": 8
+      },
+      "status": "RECORDING PENDING",
+      "declinedOn": 1568363986952,
+      "reason": "ghjkl"
+    },
+    {
+      "id": 4,
+      "taskType": "task",
+      "name": "Nam metus mi, malesuada eget ligula ut, venenatis suscipit metus.",
+      "assetType": "recordOnly",
+      "assignedBy": "Kakul Chandra",
+      "dueDate": "21 August 2019",
+      "contextText": "<p></p><ul><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Sed finibus nisi quis augue vehicula,quis semper nulla dignissim.</li><li>Suspendisse dictum eros et condimentum maximus.</li></ul><p></p><p></p><ul><li>Curabitur cursus libero quis lacus cursus,vel tincidunt ipsum volutpat.</li><li>Integer tristique lorem dictum sagittis dapibus.</li><li>Etiam sed velit rutrum,lacinia ex ac,convallis quam.</li><li>Maecenas fermentum lectus nec egestas pharetra.</li><li>Aenean quis est venenatis magna gravida euismod at nec diam.</li><li>Vivamus non ligula convallis,aliquam ante vel,maximus est.</li></ul><p></p><p></p><ul><li>Morbi a nisi vitae erat convallis scelerisque.</li><li>Cras eu augue eu orci venenatis tincidunt at quis sem.</li><li>Vivamus ultrices augue ut turpis egestas,id placerat est viverra.</li><li>Duis in tellus eu ex aliquam blandit.</li></ul><p></p><p></p><ul><li>Etiam id lectus ac lectus tristique scelerisque.</li><li>Quisque nec lectus imperdiet,rutrum metus sit amet,interdum velit.</li><li>Morbi nec quam dignissim nulla congue commodo vitae ac augue.</li></ul><p></p><p></p><ul><li>Mauris in lorem bibendum,efficitur odio ut,fringilla massa.</li><li>Integer vitae lorem a turpis blandit sagittis vel id sapien.</li><li>Cras vel nibh in nisi tincidunt efficitur eu ac ipsum.</li><li>Etiam vehicula orci at risus tempor suscipit.</li></ul><p></p><p></p><ul><li>Ut cursus diam vel libero fermentum convallis.</li><li>Integer pulvinar eros quis dui hendrerit hendrerit.</li><li>Phasellus quis dui eget arcu eleifend vulputate.</li><li>Morbi mattis sapien ac libero pharetra,at rutrum libero bibendum.</li><li>Proin efficitur nisi et leo ultrices lacinia.</li></ul><p></p><p></p><ul><li>Pellentesque quis lectus dapibus nibh tincidunt tincidunt vitae in erat.</li><li>Fusce non nisi at odio convallis feugiat.</li><li>Cras placerat diam sit amet scelerisque efficitur.</li><li>Nam consectetur nibh et lobortis dignissim.</li></ul><p></p><p></p><ul><li>Nullam rutrum mi eu efficitur cursus.</li><li>Quisque quis urna aliquet,mollis tellus vel,laoreet augue.</li><li>Phasellus dignissim nulla ac ipsum rhoncus molestie.</li><li>Mauris imperdiet tellus sed libero pharetra dignissim.</li><li>Ut hendrerit neque non dui sollicitudin pulvinar.</li><li>Sed euismod urna volutpat libero vehicula fermentum.</li></ul><p></p><p></p><ul><li>Pellentesque elementum erat facilisis malesuada maximus.</li><li>Cras sed magna euismod,lacinia ante quis,mattis mauris.</li></ul><p></p><p></p><ul><li>Maecenas varius eros faucibus justo imperdiet,at auctor nibh fermentum.</li><li>Phasellus ac erat sollicitudin,mollis mi sit amet,finibus enim.</li><li>Etiam luctus tortor vitae ex bibendum cursus.</li><li>Integer vitae ipsum viverra,mattis enim non,tincidunt eros.</li><li>Donec ullamcorper leo eu orci cursus,ac facilisis lorem congue.</li><li>Aenean suscipit mi non nibh tempor,in tempus dolor vulputate.</li></ul><p></p>",
+      "instructionText": "<p></p><ul><li>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</li><li>Sed finibus nisi quis augue vehicula,quis semper nulla dignissim.</li><li>Suspendisse dictum eros et condimentum maximus.</li></ul><p></p><p></p><ul><li>Curabitur cursus libero quis lacus cursus,vel tincidunt ipsum volutpat.</li><li>Integer tristique lorem dictum sagittis dapibus.</li><li>Etiam sed velit rutrum,lacinia ex ac,convallis quam.</li><li>Maecenas fermentum lectus nec egestas pharetra.</li><li>Aenean quis est venenatis magna gravida euismod at nec diam.</li><li>Vivamus non ligula convallis,aliquam ante vel,maximus est.</li></ul><p></p><p></p><ul><li>Morbi a nisi vitae erat convallis scelerisque.</li><li>Cras eu augue eu orci venenatis tincidunt at quis sem.</li><li>Vivamus ultrices augue ut turpis egestas,id placerat est viverra.</li><li>Duis in tellus eu ex aliquam blandit.</li></ul><p></p><p></p><ul><li>Etiam id lectus ac lectus tristique scelerisque.</li><li>Quisque nec lectus imperdiet,rutrum metus sit amet,interdum velit.</li><li>Morbi nec quam dignissim nulla congue commodo vitae ac augue.</li></ul><p></p><p></p><ul><li>Mauris in lorem bibendum,efficitur odio ut,fringilla massa.</li><li>Integer vitae lorem a turpis blandit sagittis vel id sapien.</li><li>Cras vel nibh in nisi tincidunt efficitur eu ac ipsum.</li><li>Etiam vehicula orci at risus tempor suscipit.</li></ul><p></p><p></p><ul><li>Ut cursus diam vel libero fermentum convallis.</li><li>Integer pulvinar eros quis dui hendrerit hendrerit.</li><li>Phasellus quis dui eget arcu eleifend vulputate.</li><li>Morbi mattis sapien ac libero pharetra,at rutrum libero bibendum.</li><li>Proin efficitur nisi et leo ultrices lacinia.</li></ul><p></p><p></p><ul><li>Pellentesque quis lectus dapibus nibh tincidunt tincidunt vitae in erat.</li><li>Fusce non nisi at odio convallis feugiat.</li><li>Cras placerat diam sit amet scelerisque efficitur.</li><li>Nam consectetur nibh et lobortis dignissim.</li></ul><p></p><p></p><ul><li>Nullam rutrum mi eu efficitur cursus.</li><li>Quisque quis urna aliquet,mollis tellus vel,laoreet augue.</li><li>Phasellus dignissim nulla ac ipsum rhoncus molestie.</li><li>Mauris imperdiet tellus sed libero pharetra dignissim.</li><li>Ut hendrerit neque non dui sollicitudin pulvinar.</li><li>Sed euismod urna volutpat libero vehicula fermentum.</li></ul><p></p><p></p><ul><li>Pellentesque elementum erat facilisis malesuada maximus.</li><li>Cras sed magna euismod,lacinia ante quis,mattis mauris.</li></ul><p></p><p></p><ul><li>Maecenas varius eros faucibus justo imperdiet,at auctor nibh fermentum.</li><li>Phasellus ac erat sollicitudin,mollis mi sit amet,finibus enim.</li><li>Etiam luctus tortor vitae ex bibendum cursus.</li><li>Integer vitae ipsum viverra,mattis enim non,tincidunt eros.</li><li>Donec ullamcorper leo eu orci cursus,ac facilisis lorem congue.</li><li>Aenean suscipit mi non nibh tempor,in tempus dolor vulputate.</li></ul><p></p>",
+      "attachments": [
+        {
+          "id": 1,
+          "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
+          "title": "cake",
+          "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
+        },
+        {
+          "id": 2,
+          "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
+          "title": "cake",
+          "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
+        },
+        {
+          "id": 3,
+          "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
+          "title": "cake",
+          "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
+        },
+        {
+          "id": 4,
+          "originalUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg",
+          "title": "cake",
+          "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
+        }
+      ],
+      "mode": "RECORD_ONLY",
+      "status": "RECORDING PENDING",
+      "declinedOn": 1568363986952,
+      "reason": "ghjkl"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 4,
+      "data": [
+        {
+          "id": "5",
+          "contents": { "id": "111", "src": "https://placedog.net/300/133/zz" },
+          "status": "APPROVAL_PENDING",
+          "assignee": { "id": "123" }
+        },
+        {
+          "id": "6",
+          "contents": { "id": "113", "src": "https://placedog.net/300/133/zz" },
+          "status": "DECLINED",
+         "assignee": { "id": "123" }
+        },
+        {
+          "id": "7",
+          "contents": { "id": "114", "src": "https://placedog.net/300/133/zz" },
+          "status": "APPROVED",
+          "assignee": { "id": "1234" }
+        },
+        {
+          "id": "8",
+          "contents": { "id": "115", "src": "https://placedog.net/300/133/zz" },
+          "status": "APPROVAL_PENDING",
+          "assignee": { "id": "123" }
+        },
+        {
+          "id": "9",
+          "contents": { "id": "116", "src": "https://placedog.net/300/133/zz" },
+          "status": "DECLINED",
+          "assignee": { "id": "123" }
+        },
+        {
+          "id": "10",
+          "contents": { "id": "117", "src": "https://placedog.net/300/133/zz" },
+          "status": "APPROVED",
+          "assignee": { "id": "1234" }
+        },
+        {
+          "id": "11",
+          "contents": { "id": "118", "src": "https://placedog.net/300/133/zz" },
+          "status": "APPROVAL_PENDING",
+          "assignee": { "id": "123" }
+        },
+        {
+          "id": "12",
+          "contents": { "id": "119", "src": "https://placedog.net/300/133/zz" },
+          "status": "DECLINED",
+          "assignee": { "id": "123" }
+        }
+      ],
+      "total": 8
+    }
+    
+  ]
 }
