@@ -1,0 +1,27 @@
+{
+  "name": "react-vos-json-mock",
+  "version": "1.0.0",
+  "description": "Mock Json server for react-vos project",
+  "main": "db.json",
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "delay": "json-server --watch db.json --delay 5000",
+    "infinite": "json-server --watch db.json --delay 500000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MindTickle/react-vos-json-mock.git"
+  },
+  "keywords": [
+    "mock"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MindTickle/react-vos-json-mock/issues"
+  },
+  "homepage": "http://localhost:3000/",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}
