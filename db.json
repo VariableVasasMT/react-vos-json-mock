@@ -89,7 +89,7 @@
           "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
         }
       ],
-      "status": "RECORDING PENDING",
+      "status": "RECORDING_PENDING",
       "declinedOn": 1568373883961,
       "reason": "hgjk",
       "type": "UPLOAD_AND_RECORD",
@@ -184,7 +184,7 @@
           "thumbPath": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/salted_dark_chocolate_16338_16x9.jpg"
         }
       ],
-      "status": "RECORDING PENDING",
+      "status": "RECORDING_PENDING",
       "declinedOn": 1568369826108,
       "reason": "LOL"
     },
@@ -294,7 +294,7 @@
         ],
         "total": 8
       },
-      "status": "RECORDING PENDING",
+      "status": "RECORDING_PENDING",
       "declinedOn": 1568363986952,
       "reason": "ghjkl",
       "drafts": [
@@ -345,7 +345,7 @@
         }
       ],
       "type": "RECORD_ONLY",
-      "status": "RECORDING PENDING",
+      "status": "RECORDING_PENDING",
       "declinedOn": 1568363986952,
       "reason": "ghjkl"
     },
@@ -419,6 +419,7 @@
             "src": "https://placedog.net/300/133/d"
           },
           "status": "APPROVAL_PENDING",
+          "submittedOn": 1568363986952,
           "assignee": {
             "id": "123"
           }
@@ -430,6 +431,7 @@
             "src": "https://placedog.net/300/133/e"
           },
           "status": "DECLINED",
+          "declinedOn": 1568363986952,
           "assignee": {
             "id": "123"
           }
@@ -441,6 +443,7 @@
             "src": "https://placedog.net/300/133/f"
           },
           "status": "APPROVED",
+          "submittedOn": 1568363986952,
           "assignee": {
             "id": "1234"
           }
@@ -452,6 +455,7 @@
             "src": "https://placedog.net/300/133/g"
           },
           "status": "APPROVAL_PENDING",
+          "submittedOn": 1568363986952,
           "assignee": {
             "id": "123"
           }
@@ -463,6 +467,7 @@
             "src": "https://placedog.net/300/133/h"
           },
           "status": "DECLINED",
+          "declinedOn": 1568363986952,
           "assignee": {
             "id": "123"
           }
