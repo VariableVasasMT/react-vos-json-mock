@@ -482,6 +482,12 @@
         }
       ],
       "total": 8
+    },
+    {
+      "id": "69rD7ZN"
+    },
+    {
+      "id": "mf8_sDR"
     }
   ],
   "updatable_task": [
@@ -489,7 +495,7 @@
       "id": "5",
       "contents": {
         "id": "111",
-        "src": "https://cf-ap1.mindtickle.com/benaam/1566900805603ContentSwapnaneelVishal.pptx/imagified/out_1.png?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtYXAxLm1pbmR0aWNrbGUuY29tL2JlbmFhbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTcwOTk4MDUxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlR3JlYXRlclRoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTQ0NDk3NzExNn19fV19&Signature=dBnJAuHpABHWq3054X9Z5CZe9Yqc9fXefVh-Bth7vG9bqULHqw9gGOJX4-2Xgz1JlhSwvX~fzRa8Zlg8u5GV4QVPoNsY49WFLMeWWp9K6GuyAbMmmfJL1EQmGLD7ozV4km8dTnLxo2ZZjOPyNNBjKA9OSpMSp9TFffwkgLkHo7E_&Key-Pair-Id=APKAJRHSQBGT5CW7P2CA"
+        "src": "https://cf-ap1.mindtickle.com/benaam/1566900805603ContentSwapnaneelVishal.pptx/imagified/out_1.png?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtYXAxLm1pbmR0aWNrbGUuY29tL2JlbmFhbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTcxMTM4MTIxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlR3JlYXRlclRoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTQ0NDk3NzExNn19fV19&Signature=duBDLvkBN7mxZEv74a4WH1Bgg4RkKfsYrJdmJ3SzPIbJdyxbSrEObw3GBDirYDfW3rAJjWy3ZXhwXWt0E95D5W6IfJlV8~bid~~wKp82ESnnA~khH7hqlEPcTq9GgJsmcKzoFpV5cj~kaEWKHu0~EwqRU3qIlnUMzSSBOnY9Muk_&Key-Pair-Id=APKAJRHSQBGT5CW7P2CA"
       },
       "drafts": [
         {
@@ -502,19 +508,19 @@
         }
       ],
       "selectedDraft": "0",
-      "status": "APPROVAL_PENDING",
+      "status": "DRAFT_RECORDED",
       "assignee": {
         "id": "123"
       },
-      "submittedOn": 1570983680995,
-      "declinedOn": 1570983633102,
-      "reason": "sadf"
+      "submittedOn": 1571037235894,
+      "declinedOn": 1571035214936,
+      "reason": "sadfd"
     },
     {
       "id": "6",
       "contents": {
         "id": "113",
-        "src": "https://cf-ap1.mindtickle.com/benaam/1566900805603ContentSwapnaneelVishal.pptx/imagified/out_2.png?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtYXAxLm1pbmR0aWNrbGUuY29tL2JlbmFhbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTcwOTk4MDUxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlR3JlYXRlclRoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTQ0NDk3NzExNn19fV19&Signature=dBnJAuHpABHWq3054X9Z5CZe9Yqc9fXefVh-Bth7vG9bqULHqw9gGOJX4-2Xgz1JlhSwvX~fzRa8Zlg8u5GV4QVPoNsY49WFLMeWWp9K6GuyAbMmmfJL1EQmGLD7ozV4km8dTnLxo2ZZjOPyNNBjKA9OSpMSp9TFffwkgLkHo7E_&Key-Pair-Id=APKAJRHSQBGT5CW7P2CA"
+        "src": "https://cf-ap1.mindtickle.com/benaam/1566900805603ContentSwapnaneelVishal.pptx/imagified/out_2.png?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtYXAxLm1pbmR0aWNrbGUuY29tL2JlbmFhbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTcxMTM1ODM4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlR3JlYXRlclRoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTQ0NDk3NzExNn19fV19&Signature=Q3-I7hnBTiqfQhcWvajdtYhWRU632LjhSJB7O2fUckSKJexACKM82~4ekytRaPSy2UyfPa716QrqdGw36m8ngb9ix0gvhVeWmvpVjSXtB9bPmWTfINVciVD4x5DG1pb8AjzQv3H8Yeo7CtzGmA4onyFm7ZDHQRNxrH4vTGw9KE8_&Key-Pair-Id=APKAJRHSQBGT5CW7P2CA"
       },
       "status": "DECLINED",
       "assignee": {
@@ -595,7 +601,7 @@
       "id": "12",
       "contents": {
         "id": "119",
-        "src": "https://placedog.net/300/133/h"
+        "src": "https://cf-ap1.mindtickle.com/benaam/1566809206147ContentSwapnaneelVishal.pptx/imagified/out_4.png?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtYXAxLm1pbmR0aWNrbGUuY29tL2JlbmFhbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTcxMTM4MjQ4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlR3JlYXRlclRoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTQ0NDk3NzExNn19fV19&Signature=c0WipTTsNcwC55l9TgwLjYWmHT~mW4nRZPdXsavq1QwraMKTx4AakWZzY1e0qTxg~3EbxuTpLWU3cpC4JWGSbzIdiV~ZutLvCayetjux6gKsyJDzhcQ5aIYXGa20a-CGlH8drT-K~kFys4NuNoxs6GyZvhpBv7nzBcm9T2ooA2g_&Key-Pair-Id=APKAJRHSQBGT5CW7P2CA"
       },
       "status": "DECLINED",
       "declinedOn": 1568363986952,
