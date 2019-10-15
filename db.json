@@ -315,6 +315,10 @@
       "assignedBy": {
         "name": "Kakul Chandra"
       },
+      "assignedTo": {
+        "name": "Ishan Saxena",
+        "id": "123123"
+      },
       "dueDate": "21 August 2019",
       "contextText": "<p>This slideshow is about MindTickle Glossary of Terms. Record on the two slides assigned about all the terms used. This will help new joinees to understand all the terms used in the platform and help them in understanding all the flows and stakeholders better. This will help in onboarding and getting fluent with the platform faster and begin their work.</p><p>Companies across a wide range of industries use MindTickle’s innovative capabilities for on-demand, online training, bite-sized mobile updates, gamification-based learning, coaching, and role-play to ensure world-class sales performance.</p>",
       "instructionText": "<ol><li>Upload and record on two slides about all the terms used</li> <li>Keeps all the terms in bullet points</li> <li>Talk briefly about each of the points with an example</li> <li>Spend not more the 2 min on each slide</li> <li>Please use illustrations and relevant images in all the slides</li><li>A compelling introduction</li><li>Offer a body of evidence</li><li>Sum up with key takeaways</li></ol>",
