@@ -521,7 +521,14 @@
         "id": "123"
       },
       "declinedOn": 1570982018799,
-      "reason": "asldfjdsa"
+      "reason": "asldfjdsa",
+      "drafts": {
+        "data": [
+          {
+            "url": "https://cf-ap2.mindtickle.com/benaam/user/377a4635dec72353/test_drafts_vos_cc/1/audio/1571144542212.webm/mp3/1.mp3?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtYXAyLm1pbmR0aWNrbGUuY29tL2JlbmFhbS91c2VyLzM3N2E0NjM1ZGVjNzIzNTMvdGVzdF9kcmFmdHNfdm9zX2NjLzEvYXVkaW8vMTU3MTE0NDU0MjIxMi53ZWJtL21wMy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTczNzM2NTQ1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlR3JlYXRlclRoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTQ0NDk3NzExNn19fV19&Signature=RQEeklg2o0U-tZ9p5EYaP1V983d4WNuU2jyuVqHs1yNElvm6n4prGKBi9KBe80XYpuJomyPbg42RYwXc0YE7cJQFM4GjLm0hV62w-GTZi9W~lVTiP2B~nEWoUzW9FGASi-A6msuvJjZK5OlKU0vYVNUwnXzi4iGwfdvmvmktE8w_&Key-Pair-Id=APKAJRHSQBGT5CW7P2CA"
+          }
+        ]
+      }
     },
     {
       "id": "7",
@@ -595,6 +602,28 @@
       "assignee": {
         "id": "123"
       }
+    }
+  ],
+  "updated_task": [
+    {
+      "id": "6",
+      "contents": {
+        "id": "113",
+        "src": "https://placedog.net/300/133/b"
+      },
+      "status": "DRAFT_RECORDED",
+      "assignee": {
+        "id": "123"
+      },
+      "selectedDraft": "0",
+      "declinedOn": 1570982018799,
+      "reason": "asldfjdsa",
+      "drafts": [
+        {
+          "id": "0",
+          "url": "https://cf-ap2.mindtickle.com/benaam/user/377a4635dec72353/test_drafts_vos_cc/1/audio/1571142110858.webm/mp3/1.mp3?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtYXAyLm1pbmR0aWNrbGUuY29tL2JlbmFhbS91c2VyLzM3N2E0NjM1ZGVjNzIzNTMvdGVzdF9kcmFmdHNfdm9zX2NjLzEvYXVkaW8vMTU3MTE0MjExMDg1OC53ZWJtL21wMy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTczNzM0MTEzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlR3JlYXRlclRoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTQ0NDk3NzExNn19fV19&Signature=J1BUMv0BGoRt-5OjPVDgNiyISgd9oRKutfaMTM6meMrKcnWYQZ2szIf08Uyv0vsD2lybeeKvHURuw~Y070pmgYhE2la3cvk3WJGTn1rbr5QCjeHiCm2SaMT6MToQYqyRCLqHp-VHRUl94-AuA7UJ94SCYzknJV-E1-k2DKymVCI_&Key-Pair-Id=APKAJRHSQBGT5CW7P2CA"
+        }
+      ]
     }
   ]
 }
