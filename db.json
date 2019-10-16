@@ -394,8 +394,13 @@
           ],
           "selectedDraft": "0",
           "status": "DRAFT_RECORDED",
-          "assignee": {
-            "id": "123"
+          "assignedBy": {
+            "id": 2314,
+            "name": "Prashank Gupta"
+          },
+          "assignedTo": {
+            "id": "123",
+            "name": "Ishan Saxena"
           }
         },
         {
@@ -407,6 +412,14 @@
           "status": "RECORDING_PENDING",
           "assignee": {
             "id": "123"
+          },
+          "assignedBy": {
+            "id": 2314,
+            "name": "Prashank Gupta"
+          },
+          "assignedTo": {
+            "id": "123",
+            "name": "Ishan Saxena"
           }
         },
         {
@@ -418,6 +431,14 @@
           "status": "RECORDING_PENDING",
           "assignee": {
             "id": "1234"
+          },
+          "assignedBy": {
+            "id": 2314,
+            "name": "Prashank Gupta"
+          },
+          "assignedTo": {
+            "id": "123",
+            "name": "Ishan Saxena"
           }
         },
         {
@@ -430,6 +451,14 @@
           "submittedOn": 1568363986952,
           "assignee": {
             "id": "123"
+          },
+          "assignedBy": {
+            "id": 2314,
+            "name": "Prashank Gupta"
+          },
+          "assignedTo": {
+            "id": "123",
+            "name": "Ishan Saxena"
           }
         },
         {
@@ -442,6 +471,14 @@
           "declinedOn": 1568363986952,
           "assignee": {
             "id": "123"
+          },
+          "assignedBy": {
+            "id": 2314,
+            "name": "Prashank Gupta"
+          },
+          "assignedTo": {
+            "id": "123",
+            "name": "Ishan Saxena"
           }
         },
         {
@@ -454,6 +491,14 @@
           "submittedOn": 1568363986952,
           "assignee": {
             "id": "1234"
+          },
+          "assignedBy": {
+            "id": 2314,
+            "name": "Prashank Gupta"
+          },
+          "assignedTo": {
+            "id": "123",
+            "name": "Ishan Saxena"
           }
         },
         {
@@ -466,6 +511,14 @@
           "submittedOn": 1568363986952,
           "assignee": {
             "id": "123"
+          },
+          "assignedBy": {
+            "id": 2314,
+            "name": "Prashank Gupta"
+          },
+          "assignedTo": {
+            "id": "123",
+            "name": "Ishan Saxena"
           }
         },
         {
@@ -478,6 +531,14 @@
           "declinedOn": 1568363986952,
           "assignee": {
             "id": "123"
+          },
+          "assignedBy": {
+            "id": 2314,
+            "name": "Prashank Gupta"
+          },
+          "assignedTo": {
+            "id": "123",
+            "name": "Ishan Saxena"
           }
         }
       ],
@@ -488,6 +549,9 @@
     },
     {
       "id": "mf8_sDR"
+    },
+    {
+      "id": "2MjwRQ6"
     }
   ],
   "updatable_task": [
@@ -499,20 +563,22 @@
       },
       "drafts": [
         {
-          "id": "0",
-          "url": "https://cf-ap2.mindtickle.com/944147212454530362/user/420462459a487e67/test_drafts_vos_cc/1/audio/1570613981750.webm/mp3/1.mp3?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtYXAyLm1pbmR0aWNrbGUuY29tLzk0NDE0NzIxMjQ1NDUzMDM2Mi91c2VyLzQyMDQ2MjQ1OWE0ODdlNjcvdGVzdF9kcmFmdHNfdm9zX2NjLzEvYXVkaW8vMTU3MDYxMzk4MTc1MC53ZWJtL21wMy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTczMjA1OTkzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlR3JlYXRlclRoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTQ0NDk3NzExNn19fV19&Signature=Q0FDry2ao4n~l0jJ7mnAn3y9KD8v60LjM5KPkUYsyVquhFqXQbSkkB-Fdfr3WW6nHf2dobo17Nrrjil~2alkWIRXnWGCWspNNCwsseBTCOzyIoMIjqmzhTyHMrvKgRQB1OT1NiSghnnVCmBHrP0uGfmW6W8zd70NJLxAVDQ6qqs_&Key-Pair-Id=APKAJRHSQBGT5CW7P2CA"
-        },
-        {
-          "id": "1",
-          "url": "https://cf-ap2.mindtickle.com/benaam/user/377a4635dec72353/test_drafts_vos_cc/2/audio/1570686269610.webm/mp3/1.mp3?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtYXAyLm1pbmR0aWNrbGUuY29tL2JlbmFhbS91c2VyLzM3N2E0NjM1ZGVjNzIzNTMvdGVzdF9kcmFmdHNfdm9zX2NjLzIvYXVkaW8vMTU3MDY4NjI2OTYxMC53ZWJtL21wMy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTcwNzAwNjczfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlR3JlYXRlclRoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTQ0NDk3NzExNn19fV19&Signature=eJatlFTSoGGBWQqvBLFiNshhxp0MvrLdvefYsRZJag7MhVXDe8ytN-KaXUwqQlAyWp2rJ~AIs3MH~LINLQ4ZRXGm77Cpcnd29I-b7kXLKBGJSOhPnEC~tGDYeQZJXPNrYjfkrqAhGpYoV7ENAeXYdVtAdtfhPn6gDPoIi2XeMKw_&Key-Pair-Id=APKAJRHSQBGT5CW7P2CA"
+          "id": "0.8150760714331227",
+          "url": "https://cf-ap2.mindtickle.com/benaam/user/377a4635dec72353/test_drafts_vos_cc/3/audio/1571210373500.webm/mp3/1.mp3?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtYXAyLm1pbmR0aWNrbGUuY29tL2JlbmFhbS91c2VyLzM3N2E0NjM1ZGVjNzIzNTMvdGVzdF9kcmFmdHNfdm9zX2NjLzMvYXVkaW8vMTU3MTIxMDM3MzUwMC53ZWJtL21wMy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTcxMjI0Nzc3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlR3JlYXRlclRoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTQ0NDk3NzExNn19fV19&Signature=f~At7BmniUFduyrAinDFRd4qlSFA4Hu3d95YG40f4BmQvkEv-fHWWIV1mG5hOOAEHJtrjEh-xMu3uk0VkWlUmWdz8qWPUtFckyOApCxSfVnVxYLpG~1PQ0RlYzOoKNlhTjEQeE4rnXzPJ29RHaEaHKvFQQSnFFZAn2XY7REpN~U_&Key-Pair-Id=APKAJRHSQBGT5CW7P2CA"
         }
       ],
-      "selectedDraft": "0",
-      "status": "DRAFT_RECORDED",
-      "assignee": {
-        "id": "123"
+      "selectedDraft": "0.8150760714331227",
+      "status": "APPROVAL_PENDING",
+
+      "assignedBy": {
+        "id": 2314,
+        "name": "Prashank Gupta"
       },
-      "submittedOn": 1571037235894,
+      "assignedTo": {
+        "id": "123",
+        "name": "Ishan Saxena"
+      },
+      "submittedOn": 1571210395195,
       "declinedOn": 1571035214936,
       "reason": "sadfd"
     },
@@ -522,19 +588,26 @@
         "id": "113",
         "src": "https://cf-ap1.mindtickle.com/benaam/1566900805603ContentSwapnaneelVishal.pptx/imagified/out_2.png?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtYXAxLm1pbmR0aWNrbGUuY29tL2JlbmFhbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTcxMTM1ODM4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlR3JlYXRlclRoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTQ0NDk3NzExNn19fV19&Signature=Q3-I7hnBTiqfQhcWvajdtYhWRU632LjhSJB7O2fUckSKJexACKM82~4ekytRaPSy2UyfPa716QrqdGw36m8ngb9ix0gvhVeWmvpVjSXtB9bPmWTfINVciVD4x5DG1pb8AjzQv3H8Yeo7CtzGmA4onyFm7ZDHQRNxrH4vTGw9KE8_&Key-Pair-Id=APKAJRHSQBGT5CW7P2CA"
       },
-      "status": "DECLINED",
-      "assignee": {
-        "id": "123"
+      "status": "APPROVAL_PENDING",
+
+      "assignedBy": {
+        "id": 2314,
+        "name": "Prashank Gupta"
+      },
+      "assignedTo": {
+        "id": "123",
+        "name": "Ishan Saxena"
       },
       "declinedOn": 1570982018799,
       "reason": "asldfjdsa",
       "drafts": {
         "data": [
           {
-            "url": "https://cf-ap2.mindtickle.com/benaam/user/377a4635dec72353/test_drafts_vos_cc/1/audio/1571144542212.webm/mp3/1.mp3?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtYXAyLm1pbmR0aWNrbGUuY29tL2JlbmFhbS91c2VyLzM3N2E0NjM1ZGVjNzIzNTMvdGVzdF9kcmFmdHNfdm9zX2NjLzEvYXVkaW8vMTU3MTE0NDU0MjIxMi53ZWJtL21wMy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTczNzM2NTQ1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlR3JlYXRlclRoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTQ0NDk3NzExNn19fV19&Signature=RQEeklg2o0U-tZ9p5EYaP1V983d4WNuU2jyuVqHs1yNElvm6n4prGKBi9KBe80XYpuJomyPbg42RYwXc0YE7cJQFM4GjLm0hV62w-GTZi9W~lVTiP2B~nEWoUzW9FGASi-A6msuvJjZK5OlKU0vYVNUwnXzi4iGwfdvmvmktE8w_&Key-Pair-Id=APKAJRHSQBGT5CW7P2CA"
+            "url": "https://cf-ap2.mindtickle.com/benaam/user/377a4635dec72353/test_drafts_vos_cc/1/audio/1571209570321.webm/mp3/1.mp3?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtYXAyLm1pbmR0aWNrbGUuY29tL2JlbmFhbS91c2VyLzM3N2E0NjM1ZGVjNzIzNTMvdGVzdF9kcmFmdHNfdm9zX2NjLzEvYXVkaW8vMTU3MTIwOTU3MDMyMS53ZWJtL21wMy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTcxMjIzOTczfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlR3JlYXRlclRoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTQ0NDk3NzExNn19fV19&Signature=IHMEJVn1B4-IIjl8NPP1s9YTmj6DcdB-ALvF3x8rMHLPz4UDrQmgN2LTz41uPmsoykoCsQMiS~gtoagGRMvc0melQmnYgKHiKQ53Lb6nTABTZSZL4xW-o15CXQeW~AZEWt31bRe6hNLfM-qE2YVvpbPykhDv7mgVUup~HKfuSVk_&Key-Pair-Id=APKAJRHSQBGT5CW7P2CA"
           }
         ]
-      }
+      },
+      "submittedOn": 1571209627692
     },
     {
       "id": "7",
@@ -546,8 +619,8 @@
       "assignee": {
         "id": "1234"
       },
-      "declinedOn": 1570982018889,
-      "reason": "asldfjdsa"
+      "declinedOn": 1571209549396,
+      "reason": "dsaf"
     },
     {
       "id": "8",
@@ -557,8 +630,14 @@
       },
       "status": "APPROVAL_PENDING",
       "submittedOn": 1568363986952,
-      "assignee": {
-        "id": "123"
+
+      "assignedBy": {
+        "id": 2314,
+        "name": "Prashank Gupta"
+      },
+      "assignedTo": {
+        "id": "123",
+        "name": "Ishan Saxena"
       }
     },
     {
@@ -569,8 +648,14 @@
       },
       "status": "DECLINED",
       "declinedOn": 1568363986952,
-      "assignee": {
-        "id": "123"
+
+      "assignedBy": {
+        "id": 2314,
+        "name": "Prashank Gupta"
+      },
+      "assignedTo": {
+        "id": "123",
+        "name": "Ishan Saxena"
       }
     },
     {
@@ -593,8 +678,14 @@
       },
       "status": "APPROVAL_PENDING",
       "submittedOn": 1568363986952,
-      "assignee": {
-        "id": "123"
+
+      "assignedBy": {
+        "id": 2314,
+        "name": "Prashank Gupta"
+      },
+      "assignedTo": {
+        "id": "123",
+        "name": "Ishan Saxena"
       }
     },
     {
@@ -605,8 +696,14 @@
       },
       "status": "DECLINED",
       "declinedOn": 1568363986952,
-      "assignee": {
-        "id": "123"
+
+      "assignedBy": {
+        "id": 2314,
+        "name": "Prashank Gupta"
+      },
+      "assignedTo": {
+        "id": "123",
+        "name": "Ishan Saxena"
       }
     }
   ],
@@ -618,8 +715,14 @@
         "src": "https://placedog.net/300/133/b"
       },
       "status": "DRAFT_RECORDED",
-      "assignee": {
-        "id": "123"
+
+      "assignedBy": {
+        "id": 2314,
+        "name": "Prashank Gupta"
+      },
+      "assignedTo": {
+        "id": "123",
+        "name": "Ishan Saxena"
       },
       "selectedDraft": "0",
       "declinedOn": 1570982018799,
